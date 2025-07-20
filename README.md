@@ -1,7 +1,7 @@
 # Top questions python
 This repository is a curated collection of challenging Python technical questions with comprehensive answers and detailed explanations. Perfect for deepening your understanding, interview prep, and mastering advanced concepts. Community contributions are highly encouraged!
 
-* 1. How will you improve the performance
+1. How will you improve the performance
 of a program in Python?
 There are many ways to improve the performance of a Python
 program. Some of these are as follows:
